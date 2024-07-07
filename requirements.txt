@@ -1,0 +1,7 @@
+tensorflow-gpu
+keras
+matplotlib
+numpy
+cv2
+tqdm
+carla
